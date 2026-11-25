@@ -138,8 +138,6 @@ Author: Brendan McClurg
 
        python SuspectStatements.py 0
 
-   The saved output files corresponding to the first six commands are
-   identified by their matching filenames listed in Section 3.
    The three validation examples each report one solution for the
    fallback five-statement scenario, not a solution to the rejected
    specification.
